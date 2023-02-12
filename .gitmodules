@@ -1,0 +1,3 @@
+[submodule "partyembed"]
+	path = partyembed
+	url = https://github.com/callandramoore/partyembed.git
