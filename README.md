@@ -17,7 +17,7 @@ Generate, analyze, and plot Canadian MP embeddings versus election results to an
 
 2. Install requirements: `pip install -r requirements.txt`
 
-3. Unzip data, move model to `partyembed/partyembed/models/`. 
+3. Unzip data (available on request), move model to `partyembed/partyembed/models/`. 
 
 
 ## Citations
